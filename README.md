@@ -21,24 +21,24 @@
   4. Chi Square Testing
   
 ## Module 4 - Machine Learning
-  1. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
-  2. [Linear Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/10.%20Linear%20Regression)
-  3. [Logistic Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/11.%20Logistic%20Regression)
-  4. [Gradient Descent](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/12.%20Gradient%20Descent)
-  5. [Decision Trees](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/13.%20Decision%20Trees)
-  6. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
-  7. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
-  8. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
-  9. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/14.1.%20Hyperparameter%20Tuning)
+  1. K - Nearest Neighbours
+  2. Linear Regression
+  3. Logistic Regression
+  4. Gradient Descent
+  5. Decision Trees
+  6. Support Vector Machines
+  7. K - Means
+  8. Principal component Analysis
+  9. Hyperparameter Tuning
   
 ## Module 5 - Case Studies
-  - [Car Price Prediction (Regression)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/1.%20Car%20Price%20Prediction)
-  - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
-  - [Spam Detection (NLP - Classification)]
-  - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/3.%20Adult%20Income%20Prediction)
-  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> To check live website [Click Here](http://18.217.168.12:8501/)
-  - [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Case%20Studies/6.%20Streamlit%20Heroku%20Deployment)
-  - [Deployment](http://18.217.168.12:8502/) -> To learn more [Click Here](http://18.217.168.12:8502/)
+  - Car Price Prediction (Regression)
+  - Airline Sentiment Analysis (NLP - Classification)
+  - Spam Detection (NLP - Classification)
+  - Adult Income Prediction (Classification)
+  - Web App Development + Serialization and Deserialization
+  - Streamlit Heroku Deployment
+  - Deployment
   - **NOTE - Above two website links are down for some time
 
 ## Module 6 - Deep Learning
