@@ -12,22 +12,22 @@
 </div>
 
 ## Module 1 - Python Programming
-  1. [Intro to Python](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/1.%20Intro%20to%20Python)
-  2. [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/2.%20Data%20Structures)
-  3. [Control Statements (Decision and Loops)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/3.%20Control%20Statements)
-  4. [Functions and Modules](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/4.%20Functions%20and%20Modules)
+  1. Intro to Python
+  2. Data Structures in Python (List, Tuple, Set, Dictionary)
+  3. Control Statements 
+  4. Functions and Modules
  
 ## Module 2 - Python for Data Science
-  1. [Numpy](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/5.%20Numpy)
-  2. [Pandas](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/6.%20Pandas)
-  3. [Missing Value Treatment](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/7.%20Missing%20Value%20Treatment)
-  4. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/8.%20EDA)
+  1. Numpy
+  2. Pandas
+  3. Missing Value Treatment
+  4. Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)
   
 ## Module 3 - Statistics for Data Science
-  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/1.%20Normal%20Distributions)
-  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
-  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/3.%20Hypothesis%20Testing)
-  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/4.%20Chi%20Square%20Test)
+  1. Normal Distribution
+  2. Central Limit Theorem
+  3. Hypothesis Testing
+  4. Chi Square Testing
   
 ## Module 4 - Machine Learning
   1. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
