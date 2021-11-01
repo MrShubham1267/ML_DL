@@ -2,15 +2,6 @@
 
 <div align="center">
 
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/graphs/contributors"><img src="https://img.shields.io/github/contributors/bansalkanav/Machine_Learning_and_Deep_Learning?color=brightgreen"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/stargazers"><img src="https://img.shields.io/github/stars/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/network/members"><img src="https://img.shields.io/github/forks/bansalkanav/Machine_Learning_and_Deep_Learning?color=yellow"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/issues"><img src="https://img.shields.io/github/issues/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/bansalkanav/Machine_Learning_and_Deep_Learning?color=yellow"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/pulls"><img src="https://img.shields.io/github/issues-pr/bansalkanav/Machine_Learning_and_Deep_Learning?color=brightgreen"></a>
-<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a> 
-</div>
-
 ## Module 1 - Python Programming
   1. Intro to Python
   2. Data Structures in Python (List, Tuple, Set, Dictionary)
