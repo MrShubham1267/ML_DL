@@ -51,9 +51,9 @@
   - **NOTE - Above two website links are down for some time
 
 ## Module 6 - Deep Learning
-  - [Introduction to Deep Learning]
-  - [Training a Deep Neural Network + TensorFlow.Keras]
-  - [Convolutional Neural Network + TensorFlow.Keras]
+  - Introduction to Deep Learning
+  - Training a Deep Neural Network + TensorFlow.Keras
+  - Convolutional Neural Network + TensorFlow.Keras
 
   
   
